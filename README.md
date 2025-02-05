@@ -1,3 +1,2 @@
-# MvWildBot
-Bot Discord pour creer des commandes pour afficher un lien vers une documentation
-
+# SimpleDoc
+Discord bot to create commands that display a link to documentation.
